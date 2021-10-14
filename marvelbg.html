@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <title>Download wallpapers</title>
+    <style>
+
+    body {
+  margin: 0;
+  background-color: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar {
+  background-color: #333;
+  position: fixed;
+  top: -50px;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+ body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("boat-962799.jpg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+      
+      .button-container{
+display:inline-block;
+position:relative;
+}
+
+.button-container a{
+position: absolute;
+bottom:8px;
+left:12px;
+background-color:#3e8e41;
+
+color:white;
+text-transform:uppercase;
+padding:3px 7px;
+}
+
+     
+
+      .row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+      </style>
+</head>
+<body>
+     
+
+      
+     
+        <div class="row">
+          <div class="column">
+            
+           <div class="button-container">
+            <img src="images/marvel/1.png">
+            <a href="/images/marvel/1.png" download >Download</a>
+            </div>
+           
+            <div class="button-container">
+              <img src="images/marvel/2.png">
+              <a href="/images/marvel/2.png" download >Download</a>
+              </div>
+              <div class="button-container">
+                <img src="images/marvel/3.png">
+                <a href="/images/marvel/3.png" download >Download</a>
+                </div>
+                <div class="button-container">
+                  <img src="images/marvel/4.png">
+                  <a href="/images/marvel/4.png" download >Download</a>
+                  </div>
+                  <!-- <div class="button-container">
+                    <img src="images/5.png">
+                    <a href="/images/5.png" download >Download</a>
+                    </div>
+                    <div class="button-container">
+                      <img src="images/6.png">
+                      <a href="/images/6.png" download >Download</a>
+                      </div>
+                      <div class="button-container">
+                        <img src="images/7.png">
+                        <a href="/images/7.png" download >Download</a>
+                        </div> -->
+          </div>
+           <!-- <div class="column">
+            <div class="button-container">
+              <img src="images/8.png">
+              <a href="/images/8.png" download >Download</a>
+              </div>
+              <div class="button-container">
+                <img src="images/9.png">
+                <a href="/images/9.png" download >Download</a>
+                </div>
+            <img src="images/60.png">
+            <img src="mountainskies.jpg">
+            <img src="rocks.jpg">
+            <img src="underwater.jpg"> 
+          </div> -->
+          <!-- <div class="column">
+            <img src="wedding.jpg">
+            <img src="rocks.jpg">
+            <img src="falls2.jpg">
+            <img src="paris.jpg">
+            <img src="nature.jpg">
+            <img src="mist.jpg">
+            <img src="paris.jpg">
+          </div>
+          <div class="column">
+            <img src="underwater.jpg">
+            <img src="ocean.jpg">
+            <img src="wedding.jpg">
+            <img src="mountainskies.jpg">
+            <img src="rocks.jpg">
+            <img src="underwater.jpg">
+          </div>  -->
+        </div>
+        <div id="navbar">
+          <a href="index.html">Home</a>
+          <a href="marvelbg.html">Marvel</a>
+          <a href="hollywoodbg.html">Hollywood</a>
+          <a href="bollywoodbg.html">Bollywood</a>
+        </div>
+     
+        <script>
+          // When the user scrolls down 20px from the top of the document, slide down the navbar
+          window.onscroll = function() {scrollFunction()};
+          
+          function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+              document.getElementById("navbar").style.top = "0";
+            } else {
+              document.getElementById("navbar").style.top = "-50px";
+            }
+          }
+          </script>
+          
+</body>
+</html>

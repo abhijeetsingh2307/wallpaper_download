@@ -1,0 +1,1426 @@
+[
+ {
+  "brand": "24 Mantra Organic",
+  "slug": "24-mantra-organic",
+  "needs_logo": true,
+  "site_hint": "https://www.24mantra.com",
+  "products": [
+   {
+    "product": "Organic Peanut Butter Creamy",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "AS-IT-IS Nutrition",
+  "slug": "as-it-is-nutrition",
+  "needs_logo": false,
+  "site_hint": "https://asitisnutrition.com",
+  "products": [
+   {
+    "product": "Whey Protein",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Aashirvaad",
+  "slug": "aashirvaad",
+  "needs_logo": true,
+  "site_hint": "aashirvaad.com",
+  "products": [
+   {
+    "product": "High Protein Atta",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Akshayakalpa Organic",
+  "slug": "akshayakalpa-organic",
+  "needs_logo": true,
+  "site_hint": "https://akshayakalpa.org",
+  "products": [
+   {
+    "product": "High Protein Milk",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Alpino",
+  "slug": "alpino",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "High Protein Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Amul",
+  "slug": "amul",
+  "needs_logo": false,
+  "site_hint": "https://shop.amul.com",
+  "products": [
+   {
+    "product": "High Protein Milkshake",
+    "url": "https://shop.amul.com/en/product/amul-high-protein-blueberry-shake-200-ml-or-pack-of-30"
+   },
+   {
+    "product": "High Protein Paneer",
+    "url": "https://shop.amul.com/product/amul-high-protein-paneer-400-g-or-pack-of-24"
+   },
+   {
+    "product": "High Protein Buttermilk",
+    "url": ""
+   },
+   {
+    "product": "Whey Protein",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Ananda",
+  "slug": "ananda",
+  "needs_logo": true,
+  "site_hint": "anandadairy.com",
+  "products": [
+   {
+    "product": "Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Apis",
+  "slug": "apis",
+  "needs_logo": true,
+  "site_hint": "apisindia.com",
+  "products": [
+   {
+    "product": "Soya Chunks",
+    "url": "https://sastasundar.com/order-otc/apis-soya-chunks-refill-get-20-g-extra-180-g-r2vc62e"
+   }
+  ]
+ },
+ {
+  "brand": "Aroma",
+  "slug": "aroma",
+  "needs_logo": true,
+  "site_hint": "https://www.aromamilk.com",
+  "products": [
+   {
+    "product": "Fresh Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Athak",
+  "slug": "athak",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Sattu",
+    "url": "https://bigbasket.com/pd/40124114/athak-sattu-500-g"
+   }
+  ]
+ },
+ {
+  "brand": "Avvatar",
+  "slug": "avvatar",
+  "needs_logo": true,
+  "site_hint": "avvatarindia.com",
+  "products": [
+   {
+    "product": "Protein Cold Coffee",
+    "url": ""
+   },
+   {
+    "product": "Whey Protein",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Bagrry's",
+  "slug": "bagrry-s",
+  "needs_logo": true,
+  "site_hint": "https://bagrrys.com",
+  "products": [
+   {
+    "product": "Whey Protein Muesli Chocolate Almonds",
+    "url": "https://bagrrys.com/products/protein-muesli-chocolate"
+   }
+  ]
+ },
+ {
+  "brand": "Balaji",
+  "slug": "balaji",
+  "needs_logo": true,
+  "site_hint": "balajiwafers.com",
+  "products": [
+   {
+    "product": "Chana Jor Garam",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Big Sam's",
+  "slug": "big-sam-s",
+  "needs_logo": true,
+  "site_hint": "bigsams.in",
+  "products": [
+   {
+    "product": "Frozen Prawns, Medium",
+    "url": "https://bigbasket.com/pd/40067765/big-sams-frozen-prawns-medium-250-g"
+   }
+  ]
+ },
+ {
+  "brand": "Bio Nutrients Pure Diet",
+  "slug": "bio-nutrients-pure-diet",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Tofu Gold",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Bombay Hemp Company",
+  "slug": "bombay-hemp-company",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Hemp Seeds",
+    "url": ""
+   },
+   {
+    "product": "Hemp Protein Powder",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "CaliBar",
+  "slug": "calibar",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Protein Crispy Bar",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Desi Farms",
+  "slug": "desi-farms",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "High Protein Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Desi Treat",
+  "slug": "desi-treat",
+  "needs_logo": true,
+  "site_hint": "desitreat.in",
+  "products": [
+   {
+    "product": "Soya Paneer (Tofu)",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "DiSano",
+  "slug": "disano",
+  "needs_logo": true,
+  "site_hint": "disano.in",
+  "products": [
+   {
+    "product": "Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Dr. Oetker FunFoods",
+  "slug": "dr-oetker-funfoods",
+  "needs_logo": true,
+  "site_hint": "funfoods.in",
+  "products": [
+   {
+    "product": "Peanut Butter Crunchy",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Eggoz",
+  "slug": "eggoz",
+  "needs_logo": true,
+  "site_hint": "eggoz.in",
+  "products": [
+   {
+    "product": "Brown Farm Fresh Eggs",
+    "url": "https://www.bigbasket.com/pd/40211594/eggoz-brown-farm-fresh-eggs-high-bio-available-protein-eggs-with-no-ddgs-hormone-steroids-10-pcs"
+   },
+   {
+    "product": "Nutra Egg",
+    "url": "https://bigbasket.com/pd/40254134/eggoz-nutrition-nutra-egg-rich-in-omega-3-vitamin-b12-10-pcs"
+   }
+  ]
+ },
+ {
+  "brand": "Emami Healthy & Tasty",
+  "slug": "emami-healthy-and-tasty",
+  "needs_logo": true,
+  "site_hint": "emamihealthyandtasty.com",
+  "products": [
+   {
+    "product": "Nutri Soya Chunks",
+    "url": "https://sastasundar.com/order-otc/emami-healthy-tasty-nutri-soya-chunks-jar-200-g-w6uhpm"
+   }
+  ]
+ },
+ {
+  "brand": "Epigamia",
+  "slug": "epigamia",
+  "needs_logo": false,
+  "site_hint": "https://www.epigamia.com",
+  "products": [
+   {
+    "product": "Turbo Protein Milkshake",
+    "url": ""
+   },
+   {
+    "product": "Greek Yogurt",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Farm Connect",
+  "slug": "farm-connect",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "High Protein Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Farmley",
+  "slug": "farmley",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Roasted Makhana",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Fast&Up",
+  "slug": "fast-and-up",
+  "needs_logo": true,
+  "site_hint": "https://www.fastandup.in",
+  "products": [
+   {
+    "product": "Plant Protein",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Fortune",
+  "slug": "fortune",
+  "needs_logo": true,
+  "site_hint": "fortunefoods.com",
+  "products": [
+   {
+    "product": "Soya Chunks",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "FreshToHome",
+  "slug": "freshtohome",
+  "needs_logo": true,
+  "site_hint": "https://www.freshtohome.com",
+  "products": [
+   {
+    "product": "Chicken Breast Boneless",
+    "url": ""
+   },
+   {
+    "product": "Seer Fish (Surmai)",
+    "url": ""
+   },
+   {
+    "product": "Mutton Keema",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Fresho",
+  "slug": "fresho",
+  "needs_logo": true,
+  "site_hint": "bigbasket.com (BigBasket own brand)",
+  "products": [
+   {
+    "product": "Chicken Breast Boneless",
+    "url": "https://www.bigbasket.com/pd/10000900/fresho-chicken-breast-boneless-antibiotic-residue-free-4-5-pcs-500-g"
+   },
+   {
+    "product": "Rohu Curry Cut",
+    "url": "https://www.bigbasket.com/pd/40119261/fresho-rohu-cut-pieces-medium-500-g/"
+   }
+  ]
+ },
+ {
+  "brand": "Fudco",
+  "slug": "fudco",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Soya Chunks",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Govind",
+  "slug": "govind",
+  "needs_logo": true,
+  "site_hint": "govindmilk.com",
+  "products": [
+   {
+    "product": "Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Gowardhan",
+  "slug": "gowardhan",
+  "needs_logo": true,
+  "site_hint": "gowardhan.in / paragmilkfoods.com",
+  "products": [
+   {
+    "product": "Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Haldiram's",
+  "slug": "haldiram-s",
+  "needs_logo": true,
+  "site_hint": "haldirams.com",
+  "products": [
+   {
+    "product": "Roasted Chana Cracker Heeng Jeera",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Happilo",
+  "slug": "happilo",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Pumpkin Seeds",
+    "url": ""
+   },
+   {
+    "product": "Roasted Makhana",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Heera",
+  "slug": "heera",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Salted Roasted Chana",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Hello Tempayy",
+  "slug": "hello-tempayy",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Tempeh",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Hen Fruit",
+  "slug": "hen-fruit",
+  "needs_logo": true,
+  "site_hint": "henfruit.in",
+  "products": [
+   {
+    "product": "Brown Eggs",
+    "url": "https://bigbasket.com/pd/40172730/hen-fruit-power-brown-eggs-24-pcs"
+   }
+  ]
+ },
+ {
+  "brand": "Heritage Foods",
+  "slug": "heritage-foods",
+  "needs_logo": true,
+  "site_hint": "heritagefoods.in",
+  "products": [
+   {
+    "product": "Nourish+ High Protein Curd",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Horlicks",
+  "slug": "horlicks",
+  "needs_logo": false,
+  "site_hint": "https://protein.horlicks.in",
+  "products": [
+   {
+    "product": "Protein Milkshake",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "ITC Master Chef",
+  "slug": "itc-master-chef",
+  "needs_logo": true,
+  "site_hint": "itcmasterchef.com",
+  "products": [
+   {
+    "product": "Medium Prawns, Peeled and Deveined",
+    "url": "https://blinkit.com/prn/itc-master-chef-medium-prawns-peeled-deveined/prid/452658"
+   }
+  ]
+ },
+ {
+  "brand": "Indiska Farms",
+  "slug": "indiska-farms",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Malai Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "JK",
+  "slug": "jk",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Chaskaah Roasted Chana Hing Jeera",
+    "url": "https://sastasundar.com/order-otc/jk-chaskaah-roasted-chana-hing-jeera-pouch-200-g-rn7vyd5"
+   }
+  ]
+ },
+ {
+  "brand": "Jabsons",
+  "slug": "jabsons",
+  "needs_logo": true,
+  "site_hint": "jabsons.com",
+  "products": [
+   {
+    "product": "Sattoo (Chana Sattu)",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Kissan",
+  "slug": "kissan",
+  "needs_logo": true,
+  "site_hint": "https://www.kissan.in",
+  "products": [
+   {
+    "product": "Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Licious",
+  "slug": "licious",
+  "needs_logo": true,
+  "site_hint": "https://www.licious.in",
+  "products": [
+   {
+    "product": "Chicken Breast Boneless",
+    "url": ""
+   },
+   {
+    "product": "Mutton Boneless",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Lo! Foods",
+  "slug": "lo-foods",
+  "needs_logo": true,
+  "site_hint": "lofoods.in",
+  "products": [
+   {
+    "product": "Low Carb High Protein Atta",
+    "url": "https://bigbasket.com/pd/40301118/lo-foods-lo-foods-high-protein-flour-8-gms-of-protein-per-roti-1-kg-1000g"
+   }
+  ]
+ },
+ {
+  "brand": "M.O.M",
+  "slug": "m-o-m",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Roasted Makhana",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Milk Magic",
+  "slug": "milk-magic",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Milky Mist",
+  "slug": "milky-mist",
+  "needs_logo": false,
+  "site_hint": "https://www.milkymist.com",
+  "products": [
+   {
+    "product": "High Protein Milk",
+    "url": ""
+   },
+   {
+    "product": "Greek Yogurt",
+    "url": ""
+   },
+   {
+    "product": "High Protein Low Fat Paneer",
+    "url": "https://www.milkymist.com/paneer"
+   }
+  ]
+ },
+ {
+  "brand": "MillD",
+  "slug": "milld",
+  "needs_logo": true,
+  "site_hint": "https://milld.com",
+  "products": [
+   {
+    "product": "High Protein Atta",
+    "url": "https://milld.com/products/milld-high-protein-atta"
+   }
+  ]
+ },
+ {
+  "brand": "Mix Box Snacks",
+  "slug": "mix-box-snacks",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Roasted Makhana",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Mori-Nu",
+  "slug": "mori-nu",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Silken Tofu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Mother Dairy",
+  "slug": "mother-dairy",
+  "needs_logo": true,
+  "site_hint": "motherdairy.com",
+  "products": [
+   {
+    "product": "Promilk",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Mr. Makhana",
+  "slug": "mr-makhana",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Roasted Makhana",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "MuscleBlaze",
+  "slug": "muscleblaze",
+  "needs_logo": false,
+  "site_hint": "https://www.muscleblaze.com",
+  "products": [
+   {
+    "product": "Protein Bar",
+    "url": ""
+   },
+   {
+    "product": "Biozyme Performance Whey",
+    "url": ""
+   },
+   {
+    "product": "Mass Gainer XXL",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "MyFitness",
+  "slug": "myfitness",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "MyProtein",
+  "slug": "myprotein",
+  "needs_logo": false,
+  "site_hint": "https://www.myprotein.co.in",
+  "products": [
+   {
+    "product": "Impact Whey Protein",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Nakpro",
+  "slug": "nakpro",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Soy Protein Isolate",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Namaste India",
+  "slug": "namaste-india",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Nandini",
+  "slug": "nandini",
+  "needs_logo": true,
+  "site_hint": "kmfnandini.coop",
+  "products": [
+   {
+    "product": "Fresh Paneer",
+    "url": "https://www.bigbasket.com/pb/nandini/paneer-tofu-cream/"
+   }
+  ]
+ },
+ {
+  "brand": "Nestle a+",
+  "slug": "nestle-a-plus",
+  "needs_logo": true,
+  "site_hint": "nestle.in",
+  "products": [
+   {
+    "product": "GREKYO Greek Yoghurt (Mango)",
+    "url": "https://blinkit.com/prn/nestle-a-mango-greek-yogurt/prid/273417"
+   }
+  ]
+ },
+ {
+  "brand": "Not Rocket Science",
+  "slug": "not-rocket-science",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "26g Protein Shake",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Nova",
+  "slug": "nova",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Nutrela",
+  "slug": "nutrela",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Soya Chunks",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Nutty Yogi",
+  "slug": "nutty-yogi",
+  "needs_logo": true,
+  "site_hint": "https://www.nuttyyogi.com",
+  "products": [
+   {
+    "product": "Sattu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "OZiva",
+  "slug": "oziva",
+  "needs_logo": false,
+  "site_hint": "https://www.oziva.in",
+  "products": [
+   {
+    "product": "Protein & Herbs (Women / Men)",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Oleev Kitchen",
+  "slug": "oleev-kitchen",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "High Protein Multigrain Pasta",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Optimum Nutrition",
+  "slug": "optimum-nutrition",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Gold Standard 100% Whey",
+    "url": ""
+   },
+   {
+    "product": "Gold Standard 100% Casein",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Organic India",
+  "slug": "organic-india",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Moringa Powder",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Organic Mandya",
+  "slug": "organic-mandya",
+  "needs_logo": true,
+  "site_hint": "https://organicmandya.com",
+  "products": [
+   {
+    "product": "High Protein Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Origin Nutrition",
+  "slug": "origin-nutrition",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Daily Plant Protein",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "PHAB",
+  "slug": "phab",
+  "needs_logo": true,
+  "site_hint": "phab.in",
+  "products": [
+   {
+    "product": "Protein Milkshake",
+    "url": ""
+   },
+   {
+    "product": "Protein Bar",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Patanjali",
+  "slug": "patanjali",
+  "needs_logo": true,
+  "site_hint": "patanjaliayurved.net",
+  "products": [
+   {
+    "product": "Chana Sattu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Pintola",
+  "slug": "pintola",
+  "needs_logo": false,
+  "site_hint": "https://www.pintola.in",
+  "products": [
+   {
+    "product": "High Protein Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Plix",
+  "slug": "plix",
+  "needs_logo": false,
+  "site_hint": "https://www.plixlife.com",
+  "products": [
+   {
+    "product": "Plant Protein Powder",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Pro Plant",
+  "slug": "pro-plant",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Tofu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Provilac",
+  "slug": "provilac",
+  "needs_logo": true,
+  "site_hint": "provilac.com",
+  "products": [
+   {
+    "product": "High Protein Milk",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Punjab Sindh",
+  "slug": "punjab-sindh",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "High Protein Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Rajdhani",
+  "slug": "rajdhani",
+  "needs_logo": true,
+  "site_hint": "https://www.rajdhanifoods.com",
+  "products": [
+   {
+    "product": "Roasted Chana",
+    "url": "https://www.rajdhanifoods.com/roasted-chana"
+   }
+  ]
+ },
+ {
+  "brand": "Rani",
+  "slug": "rani",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Soya Chunks",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Raw Pressery",
+  "slug": "raw-pressery",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Protein Milkshake",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "RiteBite",
+  "slug": "ritebite",
+  "needs_logo": true,
+  "site_hint": "ritebite.in",
+  "products": [
+   {
+    "product": "Max Protein 26g Milkshake",
+    "url": ""
+   },
+   {
+    "product": "Max Protein Daily Bar",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Saffola",
+  "slug": "saffola",
+  "needs_logo": true,
+  "site_hint": "saffola.in",
+  "products": [
+   {
+    "product": "Soya Chunks Tender & Juicy",
+    "url": "https://sastasundar.com/order-otc/saffola-soya-chunks-tender-juicy-43-g-kpb3ke"
+   }
+  ]
+ },
+ {
+  "brand": "Sattviko",
+  "slug": "sattviko",
+  "needs_logo": true,
+  "site_hint": "https://sattviko.com",
+  "products": [
+   {
+    "product": "High Protein Roasted Makhana Cheddar Cheese",
+    "url": "https://sattviko.com/products/sattviko-high-protein-roasted-makhana-cheddar-cheese"
+   }
+  ]
+ },
+ {
+  "brand": "Shree Gulab",
+  "slug": "shree-gulab",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Roasted Gram Flour Sattu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Sofit",
+  "slug": "sofit",
+  "needs_logo": true,
+  "site_hint": "sofit.in",
+  "products": [
+   {
+    "product": "Soya Milk",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Sorich Organics",
+  "slug": "sorich-organics",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Spirulina Powder",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Soyamrut",
+  "slug": "soyamrut",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Tofu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Soyfit",
+  "slug": "soyfit",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Tofu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Sumeru",
+  "slug": "sumeru",
+  "needs_logo": true,
+  "site_hint": "sumeru.co.in",
+  "products": [
+   {
+    "product": "Chicken Breast Boneless",
+    "url": "https://www.bigbasket.com/pd/40211102/sumeru-chicken-breast-boneless-400-g-tray"
+   }
+  ]
+ },
+ {
+  "brand": "Sundrop",
+  "slug": "sundrop",
+  "needs_logo": true,
+  "site_hint": "sundrop.in",
+  "products": [
+   {
+    "product": "Peanut Butter Creamy",
+    "url": "https://www.bigbasket.com/pd/900456877/sundrop-peanut-butter-creamy-300-g/"
+   }
+  ]
+ },
+ {
+  "brand": "Super Nutri Foods",
+  "slug": "super-nutri-foods",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Sugar-free Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "SuperYou",
+  "slug": "superyou",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Protein Wafers",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Tata Sampann",
+  "slug": "tata-sampann",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Unpolished Moong Dal",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "The Proteinest",
+  "slug": "the-proteinest",
+  "needs_logo": true,
+  "site_hint": "https://theproteinest.com",
+  "products": [
+   {
+    "product": "Choco Buddy Chocolate Plant Protein",
+    "url": "https://theproteinest.com/products/plant-protein-powder-chocolate-choco-buddy"
+   },
+   {
+    "product": "Coffee Crew Arabica Plant Protein",
+    "url": "https://theproteinest.com/products/coffeecrew"
+   },
+   {
+    "product": "Kulfi Mate Pista Badam Plant Protein",
+    "url": "https://theproteinest.com/products/kulfi-mate"
+   }
+  ]
+ },
+ {
+  "brand": "The Whole Truth",
+  "slug": "the-whole-truth",
+  "needs_logo": false,
+  "site_hint": "https://thewholetruthfoods.com",
+  "products": [
+   {
+    "product": "Protein Bar",
+    "url": ""
+   },
+   {
+    "product": "Protein Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Thirumala",
+  "slug": "thirumala",
+  "needs_logo": true,
+  "site_hint": "thirumalamilk.com",
+  "products": [
+   {
+    "product": "Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Tinglings",
+  "slug": "tinglings",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Roasted Chana Sattu",
+    "url": "https://www.bigbasket.com/pd/40296178/tinglings-roasted-gram-flourchanna-sattu-ready-to-use-500-g"
+   }
+  ]
+ },
+ {
+  "brand": "True Elements",
+  "slug": "true-elements",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Roasted Pumpkin Seeds",
+    "url": "https://bigbasket.com/pd/40128699/true-elements-roasted-pumpkin-seeds-salted-crunch-125-g"
+   },
+   {
+    "product": "Sunflower Seeds",
+    "url": ""
+   },
+   {
+    "product": "Quinoa",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Two Brothers Organic Farms",
+  "slug": "two-brothers-organic-farms",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Protein Atta",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "United Foods",
+  "slug": "united-foods",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Crunchy Nutty Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Urban Platter",
+  "slug": "urban-platter",
+  "needs_logo": false,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Firm Tofu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Vallhabha",
+  "slug": "vallhabha",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Paneer",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Veeba",
+  "slug": "veeba",
+  "needs_logo": true,
+  "site_hint": "veeba.in",
+  "products": [
+   {
+    "product": "Creamy Peanut Butter",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "VegPro",
+  "slug": "vegpro",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Soya Chunks",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Wellbeing Nutrition",
+  "slug": "wellbeing-nutrition",
+  "needs_logo": true,
+  "site_hint": "https://wellbeingnutrition.com",
+  "products": [
+   {
+    "product": "Whey Protein Isolate + Concentrate",
+    "url": "https://wellbeingnutrition.com/products/whey-protein-isolate-concentrate-strawberry-flavour"
+   }
+  ]
+ },
+ {
+  "brand": "Whole Farm",
+  "slug": "whole-farm",
+  "needs_logo": true,
+  "site_hint": "",
+  "products": [
+   {
+    "product": "Chana Sattu",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "Yoga Bar",
+  "slug": "yoga-bar",
+  "needs_logo": false,
+  "site_hint": "https://www.yogabars.in",
+  "products": [
+   {
+    "product": "Protein Oats Choco Almond",
+    "url": "https://yogabars.in/products/20g-protein-oats-choco-almond-850g"
+   },
+   {
+    "product": "26g Protein Shake",
+    "url": ""
+   },
+   {
+    "product": "Protein Bar",
+    "url": ""
+   }
+  ]
+ },
+ {
+  "brand": "iD Fresh",
+  "slug": "id-fresh",
+  "needs_logo": true,
+  "site_hint": "idfreshfood.com",
+  "products": [
+   {
+    "product": "High Protein Paneer",
+    "url": ""
+   }
+  ]
+ }
+]
